@@ -1,5 +1,5 @@
-var CLIENT_ID = 'xxx';
-var CLIENT_SECRET = 'xxx';
+var CLIENT_ID = 'xxx'; // place client ID here
+var CLIENT_SECRET = 'xxx'; // place secret key here
 
 // configure the service
 function getStravaService() {
